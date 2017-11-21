@@ -1,0 +1,38 @@
+{
+  "name": "webpack-plugin-amd2cmd",
+  "version": "0.0.1",
+  "description": "A webpack plugin - Transfer amd bundle to cmd.",
+  "main": "main/index.js",
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barretlee/webpack-plugin-amd2cmd.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "cmd",
+    "amd",
+    "transfer"
+  ],
+  "author": "Barret Lee <barret.china@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barretlee/webpack-plugin-amd2cmd/issues"
+  },
+  "homepage": "https://github.com/barretlee/webpack-plugin-amd2cmd#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "6.x.x",
+    "babel-preset-es2015": "6.x.x",
+    "babel-preset-rax": "^0.2.11",
+    "rax-webpack-plugin": "^0.3.3",
+    "stylesheet-loader": "^0.3.4",
+    "webpack": "1.x.x"
+  },
+  "dependencies": {
+    "debug": "^3.1.0"
+  }
+}

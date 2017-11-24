@@ -6,13 +6,19 @@ define("group/mod/bundle", [
 
   try{
     var __WEBPACK_EXTERNAL_MODULE_1__ = require("rax");
-  } cache(e) {}
+  } cache(e) { 
+    typeof console !== "undefined" && console.log(e);
+  }
   try{
     var __WEBPACK_EXTERNAL_MODULE_2__ = require("@ali/tile-view");
-  } cache(e) {}
+  } cache(e) { 
+    typeof console !== "undefined" && console.log(e);
+  }
   try{
     var __WEBPACK_EXTERNAL_MODULE_3__ = require("@ali/tile-text");
-  } cache(e) {}
+  } cache(e) { 
+    typeof console !== "undefined" && console.log(e);
+  }
 
   return  module.exports = 
 

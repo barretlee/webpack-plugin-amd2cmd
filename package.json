@@ -1,6 +1,6 @@
 {
   "name": "webpack-plugin-amd2cmd",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "A webpack plugin - Transfer amd bundle to cmd.",
   "main": "lib/index.js",
   "scripts": {

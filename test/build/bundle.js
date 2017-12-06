@@ -4,19 +4,19 @@ define("group/mod/bundle", [
   "@ali/tile-text"
 ], function(require, exports, module) {
 
-  try{
+  try {
     var __WEBPACK_EXTERNAL_MODULE_1__ = require("rax");
-  } cache(e) { 
+  } catch(e) { 
     typeof console !== "undefined" && console.log(e);
   }
-  try{
+  try {
     var __WEBPACK_EXTERNAL_MODULE_2__ = require("@ali/tile-view");
-  } cache(e) { 
+  } catch(e) { 
     typeof console !== "undefined" && console.log(e);
   }
-  try{
+  try {
     var __WEBPACK_EXTERNAL_MODULE_3__ = require("@ali/tile-text");
-  } cache(e) { 
+  } catch(e) { 
     typeof console !== "undefined" && console.log(e);
   }
 
